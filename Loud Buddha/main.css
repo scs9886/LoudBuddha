@@ -1,0 +1,11 @@
+body {
+	font-family: 'Nunito', sans-serif;
+}
+
+#heading {
+	text-align: center;
+}
+
+#heading-title {
+	font-weight: 600;
+}
