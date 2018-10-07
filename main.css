@@ -1,0 +1,32 @@
+body {
+	font-family: 'Alegreya', serif;
+}
+
+.icon {
+	font-size: 25px;
+	display: inline;
+}
+
+.navbar-small { 
+	padding-top: 0.25rem; 
+	padding-bottom: 0.25rem; 
+}
+
+.top-image {
+	width: 65%;
+}
+
+@media only screen and (max-width: 800px) {
+	.top-image {
+		width: 85%;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.top-image {
+		width: 95%;
+	}
+}
+
+#heading {
+	text-align: center;
+}
